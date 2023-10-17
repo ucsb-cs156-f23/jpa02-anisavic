@@ -4,7 +4,7 @@
 Repo: https://github.com/ucsb-cs156-f23/jpa02-anisavic
 
 
-Deployed at: https://jpa02-anisavic.dokku-12.cs.ucsb.edu
+Deployed at: http://jpa02-anisavic.dokku-12.cs.ucsb.edu
 
 
 # About this repo
